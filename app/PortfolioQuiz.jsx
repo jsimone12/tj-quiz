@@ -427,7 +427,7 @@ export default function PortfolioQuiz() {
               {RESULTS[result].body}
             </p>
             <div className="req-cta-row req-fade-3">
-              <button className="req-btn" onClick={() => { window.location.href = "https://system.stricklandresolutions.com/home"; }}>
+              <button className="req-btn" onClick={() => { window.location.href = "https://systems.stricklandresolutions.com/"; }}>
   Get Your Starter System
 </button>
               <button className="req-ghost" onClick={restart}>
