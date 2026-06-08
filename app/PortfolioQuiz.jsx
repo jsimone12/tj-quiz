@@ -120,7 +120,7 @@ export default function PortfolioQuiz() {
 
     // Send the lead to GHL via inbound webhook
     fetch(
-      "https://services.leadconnectorhq.com/hooks/DvWTrdD23UD09zv6GgZj/webhook-trigger/19706384-766d-419f-93ed-8f50289d287d",
+      "https://services.leadconnectorhq.com/hooks/AY3dbwXLmcC6oHD0Io5r/webhook-trigger/2bf33f3a-9a2f-41f0-92d9-d6f6436862a3",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
